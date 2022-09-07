@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pranav915
-- 👀 I’m currently learning more on Android Development , Web Development & Competitive Programming.
+- 👀 I’m currently learning more on  Web Development, Android Development & Competitive Programming.
 - 📧 You can reach me at patilpranav915@gmail.com
 ___
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranav915&show_icons=true&theme=radical)
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranav915&show_icons=true&theme=radical)
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav915)](https://github.com/anuraghazra/github-readme-stats)
  <!---
