@@ -2,7 +2,7 @@
 - 👀 I’m currently learning more on  Web Development, Android Development & Competitive Programming.
 - 📧 You can reach me at patilpranav915@gmail.com
 ___
-
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav915)](https://github.com/anuraghazra/github-readme-stats)
  <!---
