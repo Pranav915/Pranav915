@@ -1,5 +1,7 @@
 <h4>  Hi, I'm Pranav Patil </h4>
 
+I'm a passionate software developer with a strong interest in Web and Android development. I enjoy working with various technologies, including React, Node.js, and Spring Boot.
+
 
 
 ###### 📫Connect with me
