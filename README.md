@@ -18,11 +18,8 @@ I'm a passionate software developer with a strong interest in Web and Android de
 
 <hr style="height: 1px; background-color: #ddd; margin-top: 0;"/>
 
-<!--  make categories then add stacks -->
-
 ###### Languages
 
-<!-- c++ java js python dart -->
 <p align=center>
 <code><a href="https://www.cplusplus.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/427px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40" /> </a></code>
 <code><a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" /> </a></code>
@@ -32,7 +29,6 @@ I'm a passionate software developer with a strong interest in Web and Android de
 
 ###### Frontend Frameworks
 
-<!-- react next react-native flutter mui bootstrap -->
 <p align=center>
 <code><a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" /> </a></code>
 <code><a href="https://nextjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zeit/zeit-icon.svg" alt="nextjs" width="40" height="40" /> </a></code>
@@ -42,8 +38,6 @@ I'm a passionate software developer with a strong interest in Web and Android de
 
 ###### Backend Frameworks
 
-<!-- node express django nest spring-boot flask -->
-
 <p align=center>
 <code><a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" /> </a></code>
 <code><a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" /> </a></code>
@@ -52,8 +46,6 @@ I'm a passionate software developer with a strong interest in Web and Android de
 </p>
 
 ###### Databases
-
-<!-- mysql mongodb firebase -->
 
 <p align=center>
 <code><a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" /> </a></code>
