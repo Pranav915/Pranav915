@@ -89,8 +89,4 @@ A passionate Software Developer with a keen interest in Technology Innovations.
 <hr style="height: 1px; background-color: #ddd; margin-top: 0;"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pranav915&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-___
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranav915&show_icons=true&theme=radical)
-___
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav915)](https://github.com/anuraghazra/github-readme-stats) 
 
