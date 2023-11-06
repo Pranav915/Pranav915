@@ -56,9 +56,9 @@ I'm a passionate software developer with a strong interest in Web and Android de
 
 <hr style="height: 1px; background-color: #ddd; margin-top: 0;"/>
 
-<p align=center><img style="height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav915&theme=tokyonight" alt="suman-jaiswal" /></p>
-<p align=center><img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=pranav915&show_icons=true&theme=radical" alt="suman-jaiswal" /></p>
-<p align=center><img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav915&layout=compact&theme=tokyonight" alt="suman-jaiswal" /></p>
+<p align=center><img style="height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav915&theme=tokyonight" alt="pranav-patil" /></p>
+<p align=center><img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=pranav915&show_icons=true&theme=radical" alt="pranav-patil" /></p>
+<p align=center><img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav915&layout=compact&theme=tokyonight" alt="pranav-patil" /></p>
 
 <br/>
 
